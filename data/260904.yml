@@ -7,7 +7,7 @@ about:
   head: afdd404
   archived: false
   latestVersion: v0.24.0
-  collectedAt: 2026-09-04T19:40:14Z
+  collectedAt: 2026-09-04T20:53:14Z
 timeline:
   created: 2020-10-12
   lastCommit: 2026-08-09
@@ -80,5 +80,28 @@ total:
   openIssue: 10
   commit: 587
 ---
+path: /home/runner/.x-repo/github.com/EdJoPaTo/mqttui
+collectedAt: 2026-09-04T20:53:15Z
+loc:
+  Rust:
+    code: 3078
+    comments: 21
+    blanks: 334
+    files: 31
+  Toml:
+    code: 80
+    comments: 3
+    blanks: 10
+    files: 2
+  Markdown:
+    code: 0
+    comments: 251
+    blanks: 148
+    files: 2
+total:
+  code: 3186
+  comments: 387
+  blanks: 530
+  files: 35
 ---
 
