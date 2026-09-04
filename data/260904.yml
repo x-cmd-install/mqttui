@@ -1,0 +1,56 @@
+about:
+  description: Subscribe to a MQTT topic or publish something quickly from the terminal
+  license: GPL-3.0
+  homepage: 
+  head: afdd404
+  archived: false
+  latestVersion: v0.24.0
+  collectedAt: 2026-09-04T04:36:56Z
+timeline:
+  created: 2020-10-12
+  lastCommit: 2026-08-09
+  lastRelease: 2026-08-09
+popularity:
+  star: 723
+  watcher: 10
+  fork: 36
+  release: 29
+  contributor: 15
+  pullRequest: 67
+  issue: 47
+language:
+  Rust: 118710
+totalLine: 118710
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 4
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 8
+  last180d:
+    since: 2026-03-08
+    release: 2
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 12
+  last360d:
+    since: 2025-09-09
+    release: 2
+    mergedPR: 2
+    openPR: 1
+    closedIssue: 1
+    openIssue: 2
+    commit: 21
