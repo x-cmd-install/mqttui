@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2450618,
       "digest": "sha256:7a1dda36303917f20357541bfc86081defd3e8c334af947c1eb75ee04df23611",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-09T17:42:01Z",
       "updated_at": "2026-08-09T17:42:01Z",
       "browser_download_url": "https://github.com/EdJoPaTo/mqttui/releases/download/v0.24.0/mqttui-v0.24.0-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1615428,
       "digest": "sha256:cd83c99b22ea7e26017f3fdb4553d0d038c5dd4c497e39c3f1deab2b0fb64902",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-09T17:41:31Z",
       "updated_at": "2026-08-09T17:41:32Z",
       "browser_download_url": "https://github.com/EdJoPaTo/mqttui/releases/download/v0.24.0/mqttui-v0.24.0-arm-unknown-linux-gnueabihf.deb"
