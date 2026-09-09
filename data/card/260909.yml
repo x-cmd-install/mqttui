@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.24.0"
   latestRelease: "v0.24.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:16:36Z
+  collectedAt: 2026-09-09T19:32:19Z
 timeline:
   created: 2020-10-12
   lastCommit: 2026-08-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-09
   lastPrerelease: 
 popularity:
-  star: 723
+  star: 725
   watcher: 10
   fork: 36
   release: 29
@@ -83,7 +83,7 @@ total:
   commit: 587
 ---
 path: /home/runner/.x-repo/github.com/EdJoPaTo/mqttui
-collectedAt: 2026-09-09T05:16:37Z
+collectedAt: 2026-09-09T19:32:19Z
 loc:
   Rust:
     code: 3078
