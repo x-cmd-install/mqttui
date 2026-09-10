@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1776460,
       "digest": "sha256:c48c9790bb3abffbbb0ef2f8d6c03d169369b869314e5e8bb0e72b551f9bfa2b",
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2026-08-09T17:41:33Z",
       "updated_at": "2026-08-09T17:41:33Z",
       "browser_download_url": "https://github.com/EdJoPaTo/mqttui/releases/download/v0.24.0/mqttui-v0.24.0-aarch64-unknown-linux-gnu.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1913663,
       "digest": "sha256:4e0ead70dc1f31ea4d3bb200e4c8c711809508b3ae13efcccb8f35fa1ad9ecda",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-09T17:41:33Z",
       "updated_at": "2026-08-09T17:41:33Z",
       "browser_download_url": "https://github.com/EdJoPaTo/mqttui/releases/download/v0.24.0/mqttui-v0.24.0-armv7-unknown-linux-gnueabihf.rpm"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1988672,
       "digest": "sha256:b3d3ee006abf57058f10ee932145ef61f1ba495f5ed713a0193e94b9976984b9",
-      "download_count": 134,
+      "download_count": 135,
       "created_at": "2026-08-09T17:41:43Z",
       "updated_at": "2026-08-09T17:41:43Z",
       "browser_download_url": "https://github.com/EdJoPaTo/mqttui/releases/download/v0.24.0/mqttui-v0.24.0-x86_64-unknown-linux-gnu.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2709357,
       "digest": "sha256:195613afe1a58fcd40ef0c9f98454b697a840b03d5b230511159397ed9c5bad6",
-      "download_count": 783,
+      "download_count": 784,
       "created_at": "2026-08-09T17:41:43Z",
       "updated_at": "2026-08-09T17:41:43Z",
       "browser_download_url": "https://github.com/EdJoPaTo/mqttui/releases/download/v0.24.0/mqttui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz"
