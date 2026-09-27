@@ -35,7 +35,7 @@ Total: **3,158** lines of code across **35** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 732 · **Forks**: 36 · **Open issues**: 49 · **Contributors**: 15
+- **Stars**: 732 · **Forks**: 37 · **Open issues**: 49 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **3,158** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-07-28 | 1 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-06-28 | 1 | 1 | 0 | 0 | 3 | 0 |
-| last180d | 2026-03-30 | 2 | 1 | 0 | 1 | 3 | 0 |
-| 360d | 2025-10-01 | 2 | 1 | 1 | 1 | 4 | 0 |
-| last720d | 2024-10-06 | 4 | 6 | 1 | 5 | 7 | 40 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-07-29 | 1 | 0 | 0 | 0 | 3 | 4 |
+| 90d | 2026-06-29 | 1 | 1 | 0 | 0 | 3 | 6 |
+| last180d | 2026-03-31 | 2 | 1 | 0 | 1 | 3 | 11 |
+| 360d | 2025-10-02 | 2 | 1 | 1 | 1 | 4 | 20 |
+| last720d | 2024-10-07 | 4 | 6 | 1 | 5 | 7 | 40 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for mqttui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:25:03Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:44:08Z._
