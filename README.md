@@ -45,12 +45,12 @@ Total: **3,158** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-08-07 | 1 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-07-08 | 1 | 1 | 0 | 0 | 3 | 6 |
-| last180d | 2026-04-09 | 2 | 1 | 0 | 1 | 3 | 11 |
-| 360d | 2025-10-11 | 2 | 1 | 1 | 1 | 4 | 20 |
-| last720d | 2024-10-16 | 4 | 6 | 1 | 5 | 7 | 40 |
+| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-08-08 | 1 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-07-09 | 1 | 1 | 0 | 0 | 3 | 6 |
+| last180d | 2026-04-10 | 2 | 1 | 0 | 1 | 3 | 11 |
+| 360d | 2025-10-12 | 2 | 1 | 1 | 1 | 4 | 20 |
+| last720d | 2024-10-17 | 4 | 6 | 1 | 5 | 7 | 40 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for mqttui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:55:51Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:21:59Z._
