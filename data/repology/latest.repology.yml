@@ -1,34 +1,14 @@
-- repo: manjaro_stable
-  subrepo: extra
+- repo: alpine_3_19
+  subrepo: community
   srcname: mqttui
-  binname: mqttui
-  visiblename: mqttui
-  version: 0.24.0
-  origversion: 0.24.0-1
-  status: newest
-  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
-  licenses:
-    - GPL-3.0-or-later
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: mqttui
-  binname: mqttui
-  visiblename: mqttui
-  version: 0.24.0
-  origversion: 0.24.0-1
-  status: newest
-  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
-  licenses:
-    - GPL-3.0-or-later
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: mqttui
-  binname: mqttui
-  visiblename: mqttui
-  version: 0.24.0
-  origversion: 0.24.0-1
-  status: newest
-  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
+  binname: mqttui-bash-completion
+  visiblename: mqttui-bash-completion
+  version: 0.19.0
+  origversion: 0.19.0-r1
+  status: outdated
+  summary: Bash completions for mqttui
+  maintainers:
+    - alpine@guddaff.de
   licenses:
     - GPL-3.0-or-later
 - repo: alpine_3_17
@@ -144,19 +124,6 @@
   origversion: 0.19.0-r1
   status: outdated
   summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
-  maintainers:
-    - alpine@guddaff.de
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: mqttui
-  binname: mqttui-bash-completion
-  visiblename: mqttui-bash-completion
-  version: 0.19.0
-  origversion: 0.19.0-r1
-  status: outdated
-  summary: Bash completions for mqttui
   maintainers:
     - alpine@guddaff.de
   licenses:
@@ -529,6 +496,13 @@
   origversion: null
   status: newest
   summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
+- repo: homebrew
+  srcname: mqttui
+  visiblename: mqttui
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
 - repo: macports
   srcname: net/mqttui
   binname: mqttui
@@ -543,6 +517,39 @@
     - GPL-3
   categories:
     - net
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: mqttui
+  binname: mqttui
+  visiblename: mqttui
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: newest
+  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
+  licenses:
+    - GPL-3.0-or-later
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: mqttui
+  binname: mqttui
+  visiblename: mqttui
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: newest
+  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
+  licenses:
+    - GPL-3.0-or-later
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: mqttui
+  binname: mqttui
+  visiblename: mqttui
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: newest
+  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
+  licenses:
+    - GPL-3.0-or-later
 - repo: nix_stable_24_05
   srcname: mqttui
   visiblename: mqttui
