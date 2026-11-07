@@ -517,6 +517,28 @@
     - GPL-3
   categories:
     - net
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: mqttui
+  binname: mqttui
+  visiblename: mqttui
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: newest
+  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
+  licenses:
+    - GPL-3.0-or-later
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: mqttui
+  binname: mqttui
+  visiblename: mqttui
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: newest
+  summary: Subscribe to a MQTT Topic or publish something quickly from the terminal
+  licenses:
+    - GPL-3.0-or-later
 - repo: manjaro_unstable
   subrepo: extra
   srcname: mqttui
