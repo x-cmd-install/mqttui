@@ -45,12 +45,12 @@ Total: **3,158** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-08-08 | 1 | 0 | 0 | 0 | 3 | 1 |
-| last180d | 2026-05-10 | 2 | 1 | 0 | 0 | 3 | 11 |
-| 360d | 2025-11-11 | 2 | 1 | 1 | 2 | 3 | 20 |
-| last720d | 2024-11-16 | 4 | 6 | 1 | 6 | 6 | 36 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-08-09 | 1 | 0 | 0 | 0 | 3 | 1 |
+| last180d | 2026-05-11 | 2 | 1 | 0 | 0 | 3 | 11 |
+| 360d | 2025-11-12 | 2 | 1 | 1 | 2 | 3 | 20 |
+| last720d | 2024-11-17 | 4 | 6 | 1 | 6 | 6 | 36 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Total: **3,158** lines of code across **35** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **49** distros on [repology.org](https://repology.org/project/mqttui). **10** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/mqttui). **12** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for mqttui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:11:59Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:28:35Z._
