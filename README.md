@@ -14,12 +14,12 @@ x install mqttui
 
 ## Code insight
 
-Total: **3,158** lines of code across **35** files in the top 5 languages.
+Total: **3,163** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,078 | 21 | 334 | 31 |
-| Toml | 80 | 3 | 10 | 2 |
+| Rust | 3,081 | 21 | 335 | 31 |
+| Toml | 82 | 3 | 10 | 2 |
 | Markdown | 0 | 251 | 148 | 2 |
 
 ## Source
@@ -30,7 +30,7 @@ Total: **3,158** lines of code across **35** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.24.0` (2026-08-09)
-- **Last commit**: 2026-08-09
+- **Last commit**: 2026-11-17
 - **Assets in release**: 17
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **3,158** lines of code across **35** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 78 · **Open PRs**: 2 · **Closed issues**: 38 · **Open issues**: 11 · **Commits**: 587
+- **Releases**: 29 · **Merged PRs**: 78 · **Open PRs**: 2 · **Closed issues**: 38 · **Open issues**: 11 · **Commits**: 589
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last180d | 2026-05-21 | 1 | 1 | 1 | 0 | 3 | 8 |
-| 360d | 2025-11-22 | 2 | 1 | 2 | 2 | 3 | 19 |
-| last720d | 2024-11-27 | 4 | 5 | 2 | 6 | 6 | 34 |
+| 30d | 2026-10-20 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-20 | 0 | 0 | 1 | 0 | 0 | 2 |
+| 90d | 2026-08-21 | 0 | 0 | 1 | 0 | 3 | 2 |
+| last180d | 2026-05-23 | 1 | 1 | 1 | 0 | 3 | 10 |
+| 360d | 2025-11-24 | 2 | 1 | 2 | 2 | 3 | 21 |
+| last720d | 2024-11-29 | 4 | 5 | 2 | 6 | 6 | 36 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for mqttui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:13:12Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:54:38Z._
